@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /** NÃO ALTERE ESTES TESTES. Implemente as classes de produção para fazê-los passar. */
-class EstoqueTeste {
+class   EstoqueTeste {
 
     @Test
     void adicionaEConsultaEstoque() throws QuantidadeInvalidaException {
